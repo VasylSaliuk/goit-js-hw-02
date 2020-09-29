@@ -1,0 +1,1 @@
+const calculateEngravingPrice = (message = "", pricePerWord = 0) => pricePerWord;
